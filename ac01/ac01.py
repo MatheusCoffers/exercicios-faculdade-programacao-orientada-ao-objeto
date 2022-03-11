@@ -1,10 +1,9 @@
-# INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 6 alunos)
-# ALUNO 1: nome
-# ALUNO 2: nome
-# ALUNO 3: nome
-# ALUNO 4: nome
-# ALUNO 5: nome
-# ALUNO 6: nome
+# ALUNO 1: Gabriel Áquila Santos Silva
+# ALUNO 2: Gabriel Magalhaes Fontes
+# ALUNO 3: Aline de oliveira silva
+# ALUNO 4: Lucas gomes do prado
+# ALUNO 5: Matheus Denobile Coffers
+# ALUNO 6: Ester barbosa gomes
 
 
 '''
