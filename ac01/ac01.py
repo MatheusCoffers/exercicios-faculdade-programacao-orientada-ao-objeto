@@ -1,9 +1,9 @@
 # ALUNO 1: Gabriel Áquila Santos Silva
 # ALUNO 2: Gabriel Magalhaes Fontes
-# ALUNO 3: Aline de oliveira silva
-# ALUNO 4: Lucas gomes do prado
+# ALUNO 3: Aline da Silva Neves
+# ALUNO 4: Lucas Gomes do Prado
 # ALUNO 5: Matheus Denobile Coffers
-# ALUNO 6: Ester barbosa gomes
+# ALUNO 6: Ester Barbosa Gomes
 
 
 '''
