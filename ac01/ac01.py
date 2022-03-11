@@ -79,6 +79,7 @@ def reprovados(alunos):
         if media / 3 <= 6:
             lista.append(item)
     return(lista)
+
 print(reprovados(alunos))
         
 
@@ -101,6 +102,7 @@ def excluir_nota(alunos, nome):
         if nome == item:
             alunos[nome].pop(0)
     return alunos
+
 print(excluir_nota(alunos,'x'))
 
 
@@ -123,4 +125,5 @@ def maior_nota(alunos):
         nota = alunos[item][0]
         alunos_novo[item] = nota
     return alunos_novo
+    
 print(maior_nota(alunos))
