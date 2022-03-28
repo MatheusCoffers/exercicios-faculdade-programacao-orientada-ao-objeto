@@ -18,7 +18,7 @@ def pertence(lista, item1, item2):
     else:
         return False
 
-print(pertence(lista,1,6))
+print(pertence(lista,1,5))
 
 '''
 Escreva uma função chamada 'substituir' que recebe como argumentos de entrada
@@ -64,9 +64,9 @@ Considere que o aluno é reprovado se a média das suas notas é inferior a 6.
 Caso nenhum aluno seja reprovado, deve retornar uma lista vazia.
 '''
 alunos = {
-    'gabriel' : [4, 5, 6],
-    'matheus' : [2, 5, 7],
-    'aline' : [5, 6, 8]
+    'gabriel' : [4, 4, 6],
+    'matheus' : [2, 2, 7],
+    'aline' : [5, 5, 5]
 }
 
 def reprovados(alunos):
