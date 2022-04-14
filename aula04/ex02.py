@@ -26,7 +26,7 @@ def funcao_1():
             print(lista[i])         
     except IndexError:
         print('indice não encontrado')
-    print('Fim da função')
+    print('Fim da função')e
 
  
 print('Início do programa')
